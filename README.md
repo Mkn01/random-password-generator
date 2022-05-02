@@ -6,7 +6,7 @@ This application displays a randomly generated password from the user input of h
 
 ## Deployed URL
 
-You can find the application deployed to github pages (https://mkn01.github.io/password-generator/)
+You can find the application deployed to github pages (https://mkn01.github.io/random-password-generator/)
 
 ## Technologies
 
@@ -20,8 +20,8 @@ You can find the application deployed to github pages (https://mkn01.github.io/p
 
 ### Desktop Viewport
 
-! [password generator](./assets/password%20generator.jpg)
+![password generator](./assets/images/password%20generator.jpg)
 
 ### Mobile Viewport
 
-![password generator mobile](./assets/password%20generator%20mobile.jpg)
+![password generator mobile](./assets/images/password%20generator%20mobile.jpg)
